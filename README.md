@@ -19,7 +19,7 @@
 
 -  Predicting default rate of loans with public personal loan application data.
 
--  The code in four jupyter notebooks can be found [here](https://github.com/Mikean16l/DS/blob/master/Gaming_Recommender_System/main.py), which includes data cleaning, EDA, feature engineering, modeling and model tuning. 
+-  The code in four jupyter notebooks can be found [here](https://github.com/Mikean16l/DS/tree/master/Default%20Risk), which includes data cleaning, EDA, feature engineering, modeling and model tuning. 
 
 -  The main structure of this project was done, but project needs some more furnishing. 
 
